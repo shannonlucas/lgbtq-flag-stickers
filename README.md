@@ -1,6 +1,6 @@
 # LGBTQ+ Pride Flag Stickers
 
-![pride flag banner](./static/header-image.png)
+![banner image with several pride flags](./static/header-image.png "Pride flag banner")
 
 This repository contains a collection of over 30 graphic assets representing various LGBTQ+ Pride flags.
 
@@ -25,6 +25,12 @@ Screen display versions are located in the `dist` directory. These are provided 
 ### Template
 
 The blank template used for the flags is located at the top level of the project as the file `flag-template.ai`.
+
+## Downloading
+
+Click on the green button labeled "Code" above. A popup menu will appear. Click the "Download ZIP" item at the bottom of that menu. A .zip file containing a copy of this repository and all the images will then be downloaded.
+
+![An animated GIF showing the download process described above](./static/downloading.gif "Download demonstration")
 
 ## Designer credits
 
