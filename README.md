@@ -24,7 +24,7 @@ Screen display versions are located in the `dist` directory. These are provided 
 
 ### Template
 
-The blank template used for the flags is located at the top level of the project as the file `flag-template.ai`.
+The blank template used for the flags is located at the top level of the project as the file `flag-template.ait`.
 
 ## Downloading
 
