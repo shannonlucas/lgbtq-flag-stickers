@@ -36,48 +36,49 @@ The images may also be downloaded individually by browsing to the desired flag f
 
 The designers of the flags are listed in the table below. A question mark indicates that the designer is unknown.
 
-| Filename                          | Designer                                                    |
-| --------------------------------- | ----------------------------------------------------------- |
-| `flag-agender`                    | Salem                                                       |
-| `flag-ally`                       | ?                                                           |
-| `flag-androgyne`                  | saveferris                                                  |
-| `flag-aromantic`                  | Cameron (@cameronwhimsy)                                    |
-| `flag-asexual`                    | AVEN users &ldquo;standup&rdquo; and &ldquo;Bristrek&rdquo; |
-| `flag-autistic`                   | Wikipedia user &ldquo;Neurodivergent Elephant&rdquo;        |
-| `flag-bear`                       | Craig Byrnes                                                |
-| `flag-bisexual`                   | Michael Page                                                |
-| `flag-demiboy`                    | Transrants                                                  |
-| `flag-demigirl`                   | Transrants                                                  |
-| `flag-demiromantic`               | ?                                                           |
-| `flag-demisexual`                 | ?                                                           |
-| `flag-gay`                        | gayflagblog                                                 |
-| `flag-genderfluid`                | JJ Poole                                                    |
-| `flag-genderqueer`                | Marilyn Roxie                                               |
-| `flag-infinity-pride-rainbow`     | ?                                                           |
-| `flag-infinity-transgender`       | ?                                                           |
-| `flag-intersex`                   | [Morgan Carpenter](https://morgancarpenter.com/)            |
-| `flag-leather`                    | [Tony DeBlase](https://en.wikipedia.org/wiki/Tony_DeBlase)  |
-| `flag-lesbian-5-stripe`           | Emily Gwen                                                  |
-| `flag-lesbian`                    | Emily Gwen                                                  |
-| `flag-neutrois`                   | ?                                                           |
-| `flag-non-binary`                 | Kyle Rowan                                                  |
-| `flag-pansexual`                  | JustJasper                                                  |
-| `flag-polyamorous-infinity-heart` | University of Northern Colorado Poly Community              |
-| `flag-polyamorous`                | Jim Evans                                                   |
-| `flag-polysexual`                 | Samlin                                                      |
-| `flag-pony`                       | Carrie (MysticStorm)                                        |
-| `flag-pride-7-stripe`             | Paramount Flag Company                                      |
-| `flag-pride-estevao-romane`       | Est&ecirc;v&atilde;o Romane                                 |
-| `flag-pride-gilbert-baker`        | [Gilbert Baker](https://gilbertbaker.com/)                  |
-| `flag-pride-new`                  | [Julia Feliz](https://www.newprideflag.com/)                |
-| `flag-pride-philadelphia`         | City of Philadelpha / [Tierney](https://hellotierney.com/)  |
-| `flag-pride-progress`             | [Daniel Quasar](https://danielquasar.com/)                  |
-| `flag-pride-rainbow`              | [Gilbert Baker](https://gilbertbaker.com/)                  |
-| `flag-pride-two-spirit`           | 2Sanon                                                      |
-| `flag-puppy`                      | Kirk &ldquo;Brue&rdquo; Pierce                              |
-| `flag-rubber`                     | Peter Tolos and Scott Moats                                 |
-| `flag-transgender`                | [Monica Helms](https://en.wikipedia.org/wiki/Monica_Helms)  |
-| `flag-twink`                      | ?                                                           |
+| Filename                          | Designer                                                       |
+| --------------------------------- | -------------------------------------------------------------- |
+| `flag-agender`                    | Salem                                                          |
+| `flag-ally`                       | ?                                                              |
+| `flag-androgyne`                  | saveferris                                                     |
+| `flag-aromantic`                  | Cameron (@cameronwhimsy)                                       |
+| `flag-asexual`                    | AVEN users &ldquo;standup&rdquo; and &ldquo;Bristrek&rdquo;    |
+| `flag-autistic`                   | Wikipedia user &ldquo;Neurodivergent Elephant&rdquo;           |
+| `flag-bear`                       | Craig Byrnes                                                   |
+| `flag-bisexual`                   | Michael Page                                                   |
+| `flag-demiboy`                    | Transrants                                                     |
+| `flag-demigirl`                   | Transrants                                                     |
+| `flag-demiromantic`               | ?                                                              |
+| `flag-demisexual`                 | ?                                                              |
+| `flag-gay`                        | gayflagblog                                                    |
+| `flag-genderfluid`                | JJ Poole                                                       |
+| `flag-genderqueer`                | Marilyn Roxie                                                  |
+| `flag-infinity-pride-rainbow`     | ?                                                              |
+| `flag-infinity-transgender`       | ?                                                              |
+| `flag-intersex`                   | [Morgan Carpenter](https://morgancarpenter.com/)               |
+| `flag-leather`                    | [Tony DeBlase](https://en.wikipedia.org/wiki/Tony_DeBlase)     |
+| `flag-lesbian-5-stripe`           | Emily Gwen                                                     |
+| `flag-lesbian`                    | Emily Gwen                                                     |
+| `flag-neutrois`                   | ?                                                              |
+| `flag-non-binary`                 | Kyle Rowan                                                     |
+| `flag-pansexual`                  | JustJasper                                                     |
+| `flag-polyamorous-infinity-heart` | University of Northern Colorado Poly Community                 |
+| `flag-polyamorous`                | Jim Evans                                                      |
+| `flag-polysexual`                 | Samlin                                                         |
+| `flag-pony`                       | Carrie (MysticStorm)                                           |
+| `flag-pride-7-stripe`             | Paramount Flag Company                                         |
+| `flag-pride-estevao-romane`       | Est&ecirc;v&atilde;o Romane                                    |
+| `flag-pride-gilbert-baker`        | [Gilbert Baker](https://gilbertbaker.com/)                     |
+| `flag-pride-new`                  | [Julia Feliz](https://www.newprideflag.com/)                   |
+| `flag-pride-philadelphia`         | City of Philadelpha / [Tierney](https://hellotierney.com/)     |
+| `flag-pride-progress`             | [Daniel Quasar](https://danielquasar.com/)                     |
+| `flag-progress-intersex`          | [Valentino Vecchietti](https://linktr.ee/valentino_vecchietti) |
+| `flag-pride-rainbow`              | [Gilbert Baker](https://gilbertbaker.com/)                     |
+| `flag-pride-two-spirit`           | 2Sanon                                                         |
+| `flag-puppy`                      | Kirk &ldquo;Brue&rdquo; Pierce                                 |
+| `flag-rubber`                     | Peter Tolos and Scott Moats                                    |
+| `flag-transgender`                | [Monica Helms](https://en.wikipedia.org/wiki/Monica_Helms)     |
+| `flag-twink`                      | ?                                                              |
 
 ## License
 
